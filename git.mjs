@@ -6,5 +6,4 @@ exec('git add . && git commit -m "chore: daily development" && git push', (err, 
     }
     console.log(stdout);
     console.log(stderr);
-    en
 });
